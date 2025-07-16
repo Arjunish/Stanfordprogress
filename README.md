@@ -1,2 +1,1 @@
-Currently:
-Graphs combination of two sine graphs
+Analyzing difference resonances and frequencies by plotting combined sine graphs 
